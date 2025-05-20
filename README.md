@@ -2,7 +2,7 @@
 
 🎓 Informatics + Data Science @ UT Austin  
 📍 Austin, TX | 🧠 Passionate about using AI to solve real-world health & finance challenges  
-💡 Builder of [SpotlightScout](https://github.com/TheSaiEaranti/SpotlightScout.git) | Creator of HealthGuard AI
+💡 Builder of [SpotlightScout](https://github.com/TheSaiEaranti/SpotlightScout.git) | Creator of [HealthGuard AI](https://github.com/TheSaiEaranti/healthguard-ai.git)
 
 ---
 
