@@ -2,22 +2,23 @@
 
 📊 Statistics and Data Science student at UT Austin
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/thesaiearanti)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:saipreetam.earanti@utexas.edu)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/thesaiearanti)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saipreetam.earanti@utexas.edu)
 
-My interests include financial modeling, health informatics, machine learning, natural language processing, and building full-stack tools for real-world problems.
+My interests include machine learning, fintech, health informatics, natural language processing, and building full-stack tools that solve real-world problems.
 
 ---
 
 ### sai's GitHub Stats
 
-![Sai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheSaiEaranti&show_icons=true&theme=tokyonight&hide_title=true&hide=prs,issues)
+![Stats](https://github-readme-stats.vercel.app/api?username=TheSaiEaranti&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true)
 
 ---
 
 ### Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheSaiEaranti&layout=compact&theme=tokyonight&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheSaiEaranti&layout=compact&theme=tokyonight)
 
 ---
 
+![GitHub Streak](https://streak-stats.demolab.com?user=TheSaiEaranti&theme=tokyonight&hide_border=true)
