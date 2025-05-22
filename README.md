@@ -12,7 +12,8 @@ My interests include machine learning, fintech, health informatics, natural lang
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheSaiEaranti&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&hide_border=true" />
     </td>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSaiEaranti&layout=compact&theme=tokyonight&hide_title=true&hide_border=true" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSaiEaranti&layout=compact&theme=tokyonight&hide_title=true&hide_border=true&exclude_repo=helphub,TheSaiEaranti" />
     </td>
   </tr>
 </table>
+
