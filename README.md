@@ -1,6 +1,6 @@
 # Hi, I'm Sai - Welcome to my GitHub!
 
-📊 Statistics and Data Science student at UT Austin  
+📊 Information Science student at UT Austin  
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/sai-preetam-earanti-580717285/])
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saipreetam.earanti@utexas.edu)
 
