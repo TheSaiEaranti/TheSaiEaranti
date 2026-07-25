@@ -3,7 +3,7 @@
 
 # Hi, I'm Sai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-[![UT Austin](https://img.shields.io/badge/Data_Science_Honors_%2B_AI_Minor_@_UT_Austin-BF5700?style=for-the-badge&logoColor=white)](https://www.utexas.edu/)
+[![UT Austin](https://img.shields.io/badge/Information & Data Science_%2B_AI_Minor_@_UT_Austin-BF5700?style=for-the-badge&logoColor=white)](https://www.utexas.edu/)
 
 <p align="center">
   <a href="mailto:saipreetam.earanti@utexas.edu"><img src="https://img.icons8.com/color/48/gmail-new.png" width="32" alt="Email"/></a>
